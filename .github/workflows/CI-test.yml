@@ -28,4 +28,4 @@ jobs:
 
       - name: Run tests with pytest
         run: |
-          PYTHONPATH=$PYTHONPATH:$(pwd)/src pytest -v   # Run the tests with pytest and show verbose output
+          PYTHONPATH=$PYTHONPATH:$(pwd)/A-star/src pytest -v   # Run the tests with pytest and show verbose output
