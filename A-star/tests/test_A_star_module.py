@@ -1,4 +1,4 @@
-from .A-STAR.src.A_star_module import Path
+from src.A_star_module import Path
 import pytest
 import numpy as np
 from math import sqrt
