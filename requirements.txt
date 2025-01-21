@@ -1,6 +1,5 @@
 pytest
 numpy
-math
 heapq
 matplotlib
 sys
