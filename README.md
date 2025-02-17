@@ -11,3 +11,5 @@ Starting from A*
 2) Grap Based SLAM backend, implemented Guassian-Newton and LM algorithm to solve the optimization problem
 
 3) Kalman Filter, a C++ Kalman Filter implementation
+
+4) Merge Sort, a simple merge sort algorithom implementation in C++
