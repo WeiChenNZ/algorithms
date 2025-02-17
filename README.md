@@ -1,10 +1,7 @@
-This repo is created to store algrithms I have learned and implemented.
+This repo is created to store algorithms I have learned and implemented.
 
-So I will add more folders to store other algorithms later
+I also implemented a simple CI with github action
 
-I also implemented CI with github action
-
-Starting from A*
 
 1) A* find the shortest path from the start point to the goal
 
